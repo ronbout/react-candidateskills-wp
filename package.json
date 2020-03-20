@@ -2,7 +2,7 @@
 	"name": "candidateskills",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "/wp-content/themes/salient-child/react/candidate-skills",
+	"homepage": "/wp-content/themes/salient-child/react/cand-skills",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.4.0",
